@@ -1,0 +1,19 @@
+Mohammed Alghareeb
+Dr. Dehlinger
+COSC 603
+March 5, 2014
+Project 2 Report 
+My URL: http://alghareebm.appspot.com
+
+Lesson learned:
+	I did not know anything about google’s app engine before this assignment. I did what the instruction told me to do.  I managed to create the app engine, upload my files, and access them via a web browser. It was not hard to follow through the instruction. I also learned that about Google’s plugin for eclipse which made it really easy to convert the app from a stand alone app to web enabled cloud based app.
+	Before the assignment, if anybody would have asked or told me how could a programmer convert an app from a stand alone app to a cloud based web enabled app. I would immediately say I think we need to use a platform that supports it and framework that we can use to implement. Java can have that because of the servlet/Applet abilities but I would select something else like PHP or ASP something easier. But now, after using Google plugin I have a new perspective about web enabling an app.
+
+Description: (The hardest part)
+	The hardest part was trying to modify Google’s web project files to make them work with an existing stand alone app. This took most of my time for at least couple of days. I search the topic extensively and did not find a good answer for my problem. The problem that I faced was that I did not find the files that were mentioned in Task 3. There were 6 files that we were supposed to keep track of and modify in order to make our project work properly. Basically I did not find them. I am running on Mac OSX 10.9.2, JRE 1.7, Eclipse 4.3 and Google engine that is suitable for Eclipse 4.3.
+	I followed all the instructions to the word and they did not appear as mentioned in task 3. I looked for them in every and all possible locations. I installed and uninstalled everything including the JDK, IDE, and Google’s plugin. Yet, I could not find them. I tried my best to modify and change the app to make it work. However, I was not successful. Finally, I stopped searching and researching for an answers because of the deadline tonight.
+	After that I tried modifying the code in the index.html. All my modifications did not lead to the software linking properly. I found few files and I tried understanding how the work but nothing worked. The interface or the main builtin homepage of the project is easy to modify via index.html. But, as far as cascading stylesheet there was not any. Therefore, all my styling if could be done in the index.html inline inside an html tag. 
+ 
+
+
+

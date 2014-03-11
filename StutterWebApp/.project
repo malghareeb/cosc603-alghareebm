@@ -41,11 +41,4 @@
 		<nature>com.google.appengine.eclipse.core.gaeNature</nature>
 		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>Experiences/Solution.txt</name>
-			<type>1</type>
-			<location>C:/Users/alghareebm/Dropbox/mastersTU/Spring 2014/COSC 603 Software Testing &amp; Maintenance/Homework/Project 2/Solution.txt</location>
-		</link>
-	</linkedResources>
 </projectDescription>
